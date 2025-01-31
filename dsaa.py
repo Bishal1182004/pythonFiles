@@ -30,3 +30,4 @@ file_path = 'lyrics.txt'
 
 # Call the function to read lyrics and display in figlet
 read_lyrics_and_show_figlet(file_path)
+#nothing comit
