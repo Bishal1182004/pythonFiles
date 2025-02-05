@@ -1,0 +1,29 @@
+Question 1
+Given an inteeger array of size n, task is to rotate the array, elements to the right by d positions.
+
+Question 2
+givven an array of integers and a index position d, rotate the array one elements from dth position to the end
+
+
+Question 3
+in a party of N people each person is denoted by an integer, couples are presented by the same number. find out the only single person at the party of couple
+
+test case
+
+1 2 3 2 1 output 3
+
+
+Question 4
+You have to write a function that will accept a string which length is "len", the string has some "#", in it. You
+have to move all the hashes to the front of the string and return the whole string back and print it
+TEST CASE:
+> move#hash#to#the#front
+output: ####movehashtothefront
+
+Question 5
+There are n houses built in a line, each of which contains some money. A robber wants
+to steal money from the houses but he cant steal from two consecutive/adjacent houses.
+the task is to find the maximum amount of money which can be stolen
+
+test case:
+A 100 B 200 C 300 D 400 E 500 F 600
