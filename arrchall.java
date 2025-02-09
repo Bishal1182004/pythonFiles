@@ -9,7 +9,7 @@ public class arrchall {
         for (char c : numStr.toCharArray()) {
             list.add(c - '0');
         }
-        int xyz = 0;
+        //int xyz = 0;
         int count = 0;
         
         while (true) {
