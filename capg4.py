@@ -2,6 +2,8 @@ import random
 
 #comitting to make sure that github streak is maintained
 #comitting to make sure that github streak is maintained
+#COMMITING TO KEEP GITHUB STREAK ON TRACK
+
 def generate_random_quote():
     quotes = [
         "Life is like a box of chocolates.",
