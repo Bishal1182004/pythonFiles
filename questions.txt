@@ -33,3 +33,11 @@ Given an array arr[] of n integers and a target value, the task is to find weath
 in the array whhose sum is equal to the target.
 
 arr[] = [0, -1, 2, -3, 1]
+
+write a python code to rotate a matrix by 90 degree
+
+question 7
+Consider a string , S , that is a series of character, each followed by its frequency as an integer
+the string is not compresed correctly, so there may be multiple occurances of the same character. A propery
+of ea compressed string will consist of one instanc ch character in alphabetical order followed by total count 
+of that character withing the string 
