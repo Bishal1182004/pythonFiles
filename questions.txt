@@ -27,3 +27,9 @@ the task is to find the maximum amount of money which can be stolen
 
 test case:
 A 100 B 200 C 300 D 400 E 500 F 600
+
+
+Given an array arr[] of n integers and a target value, the task is to find weather there is a pair of elements 
+in the array whhose sum is equal to the target.
+
+arr[] = [0, -1, 2, -3, 1]
