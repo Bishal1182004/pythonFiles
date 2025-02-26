@@ -41,3 +41,13 @@ Consider a string , S , that is a series of character, each followed by its freq
 the string is not compresed correctly, so there may be multiple occurances of the same character. A propery
 of ea compressed string will consist of one instanc ch character in alphabetical order followed by total count 
 of that character withing the string 
+
+N is given generate and print pattern, based on n.
+
+i) for each row starting from first print numbers in decending orders from n to 1
+ii) each nbumber in a row is repeated aas many times as the current row index.
+iii) insted of printing each row on a new line, seperate the rows with -1
+iv) insted of a new line at the end of each row, print -1 to indicate row seperation
+
+after printing ther entitre pattern, end the output with -1
+
